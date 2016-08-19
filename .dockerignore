@@ -1,0 +1,12 @@
+.idea
+.git
+.gitignore
+.dockerignore
+marathon_json
+re-run.sh
+Dockerfile
+*.swp
+*.pyc
+*.md
+*.txt
+test*
